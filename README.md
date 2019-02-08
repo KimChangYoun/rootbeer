@@ -1,3 +1,6 @@
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/186a68a95d504ef7a75ebef091d4cd60)](https://app.codacy.com/app/KimChangYoun/rootbeerFresh?utm_source=github.com&utm_medium=referral&utm_content=KimChangYoun/rootbeerFresh&utm_campaign=Badge_Grade_Settings)
+
 <img src="https://travis-ci.org/travis-ci/travis-web.svg?branch=master"><br/><br/>
 Enjoy the latest Magisk and MagiskHide Detection RootBeerFresh!!
 <br/><img src="./Magisk_UDS_Detect_UI.jpg" width="50%">
